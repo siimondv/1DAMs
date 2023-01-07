@@ -12,6 +12,6 @@ package com.mycompany.githubprueba;
 public class GithubPrueba {
 
     public static void main(String[] args) {
-        System.out.println("Hello World from Netbeans");
+        System.out.println("Este es mi primer uso de git en consola");
     }
 }
